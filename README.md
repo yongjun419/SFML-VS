@@ -1,2 +1,2 @@
 # SFML-VS
-![image](https://github.com/yongjun419/SFML-VS/assets/73571228/0ff80b52-7646-4a4b-af8d-3aa02a8c6785)
+![image](https://github.com/yongjun419/SFML-VS/assets/73571228/f0771894-68d3-48e4-9d18-65df0d27ec42)
